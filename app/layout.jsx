@@ -1,3 +1,6 @@
+// styles
+import '@/public/styles/globals.scss'
+
 export const metadata = {
   title: "Amirhosein Qadamgahi"
 };
