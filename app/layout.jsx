@@ -1,6 +1,9 @@
 // styles
 import '@/public/styles/globals.scss'
 
+// components
+import Footer from './components/footer/Footer'
+
 export const metadata = {
   title: "Amirhosein Qadamgahi"
 };
